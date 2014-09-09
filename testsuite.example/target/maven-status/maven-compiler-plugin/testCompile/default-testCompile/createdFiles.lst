@@ -1,0 +1,6 @@
+testsuite/example/TestSuite.class
+testsuite/example/RemoveDeviceTest.class
+testsuite/example/AddDeviceWithDeniedExistSerialID.class
+testsuite/example/AddDeviceWithAgreedExistSerialID.class
+testsuite/example/AddDeviceTest.class
+testsuite/example/DragDropTest.class
